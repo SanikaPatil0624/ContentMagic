@@ -1,6 +1,6 @@
-# Social Media Ad Automation Platform
+# ContentMagic - Social Media Ad Automation Platform
 
-AI-powered platform to create, schedule, and optimize video content for social media platforms.
+AI-powered platform to create, schedule, and optimize video content for social media platforms. ContentMagic generates creative social media post ideas, catchy captions, and trending hashtags from any topic with just one click.
 
 ## Features
 
